@@ -24,11 +24,11 @@ Urban cities start January with little over $1600 and maintain fares of just ove
 
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
--1 My first recommendation would be to either increase number of rides or decrease the number of drivers in Urban cities. Urban cities are bringing most of the revenue; therefore, raising the interest to get more riders could be beneficial, which could benefit both drivers and the company. The current situation proves that drivers from rural cities earn more than drivers from urban cities, which could be highly discouraging for city drivers, resulting in the loss of drivers and increasing the spending budget for the company to bring in new drivers.
+- 1) My first recommendation would be to either increase number of rides or decrease the number of drivers in Urban cities. Urban cities are bringing most of the revenue; therefore, raising the interest to get more riders could be beneficial, which could benefit both drivers and the company. The current situation proves that drivers from rural cities earn more than drivers from urban cities, which could be highly discouraging for city drivers, resulting in the loss of drivers and increasing the spending budget for the company to bring in new drivers.
 
--2)Secondly, it would be beneficial to decrease the fare price in suburban areas, which could be affordable for more riders and result in more rides and more drivers' earnings.
+- 2)Secondly, it would be beneficial to decrease the fare price in suburban areas, which could be affordable for more riders and result in more rides and more drivers' earnings.
 
--3) The same could be applied to rural cities. With decreased prices, interest in ride-sharing could bring many more customers.
+- 3) The same could be applied to rural cities. With decreased prices, interest in ride-sharing could bring many more customers.
 
 All these recommendations could satisfy all parties, where riders are paying less, drivers are earning more, and PyBer has more revenue. 
 
