@@ -9,7 +9,7 @@
 
 <img width="594" alt="pyber_summary_df" src="https://user-images.githubusercontent.com/89552059/180623662-549a1373-471e-4364-8595-4c4dd426352e.png">
 
-- As we can see from the information above, it is clear that Urban cities bring most of the revenue, while suburban and rural cities share 2nd and 3rd places respectively. We can also notice that the average fare per ride and driver is higher in rural and suburban areas than in urban areas. It could be related to the number of drivers and rides, where number of rides is more than the number of drivers. However, urban cities have 780 more drivers than rides resulting in considerably low fares per driver, while other drivers from suburban and rural cities are earning 2x and 3x times more. 
+- As we can see from the information above, it is clear that Urban cities bring most of the revenue, while suburban and rural cities share 2nd and 3rd places respectively. We can also notice that the average fare per ride and driver is higher in rural and suburban areas than in urban areas. It could be related to the number of drivers and rides, where number of rides is more than the number of drivers. Therefore, urban cities have 780 more drivers than rides resulting in considerably low fares per driver, while other drivers from suburban and rural cities are earning 2x and 3x times more. 
 
 - Multple-line chart:
 
@@ -24,4 +24,11 @@ Urban cities start January with little over $1600 and maintain fares of just ove
 
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+-1 My first recommendation would be to either increase number of rides or decrease the number of drivers in Urban cities. Urban cities are bringing most of the revenue; therefore, raising the interest to get more riders could be beneficial, which could benefit both drivers and the company. The current situation proves that drivers from rural cities earn more than drivers from urban cities, which could be highly discouraging for city drivers, resulting in the loss of drivers and increasing the spending budget for the company to bring in new drivers.
+
+-2)Secondly, it would be beneficial to decrease the fare price in suburban areas, which could be affordable for more riders and result in more rides and more drivers' earnings.
+
+-3) The same could be applied to rural cities. With decreased prices, interest in ride-sharing could bring many more customers.
+
+All these recommendations could satisfy all parties, where riders are paying less, drivers are earning more, and PyBer has more revenue. 
 
