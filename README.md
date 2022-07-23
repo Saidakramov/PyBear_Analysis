@@ -1,12 +1,19 @@
 # PyBear_Analysis
 
 ## Overview of the analysis: 
-- During this analysis our objectives were to create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, to create a multiple-line graph that shows the total weekly fares for each city type. Finally, to submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+- During this analysis, our objectives were to create a summary DataFrame of the ride-sharing data by city type. Then, create a multiple-line graph showing each city type's total weekly fares. Finally, submit a written report summarizing how the data differs by city type and how decision-makers can use those differences at PyBer.
 
-## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+## Results:
+- PyBer summary:
 <img width="594" alt="pyber_summary_df" src="https://user-images.githubusercontent.com/89552059/180623662-549a1373-471e-4364-8595-4c4dd426352e.png">
-
-
+- As we can see from the information above, it is clear that Urban cities bring most of the revenue, while suburban and rural cities share 2nd and 3rd places respectively. We can also notice that the average fare per ride and driver is higher in rural and suburban areas than in urban areas. It could be related to the number of drivers and rides, where number of rides is more than the number of drivers. However, urban cities have 780 more drivers than rides resulting in considerably low fares per driver, while other drivers from suburban and rural cities are earning 2x and 3x times more. 
+- Multple-line chart:
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/89552059/180623678-1557d17d-3047-4bed-9240-a82a14ab87a8.png)
+The first thing we can notice is that all three types of cities are peaking at the end of February, right before the decrease at the beginning of March. 
+Urban cities start January with little over $1600 and maintain fares of just over $2000 until the end of April. Cities peak at the end of February and the first quarter of March, reaching about $2500. 
+Suburban cities start with about $700 and increase until they peak at about $1400 at the end of February. They dropped to approximately $800 and stayed at that level until they started increasing at the beginning of April and reached about $1300 by the end of April. 
+Rural cities had a start with about $200 in January. They had their ups and down until they reached their highest point in April with about $500 and started slightly declining towards the end of April. 
 
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
+## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
